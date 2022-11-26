@@ -1,6 +1,7 @@
 # Ebola-Monitoring-System
 
 CODE QUEEN HACKATHON GROUP PROJECT
+
 Facilitator: DIANA APOLAT
 
 Team members:
